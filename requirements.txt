@@ -3,3 +3,4 @@
 3. seaborn
 4. scikit-learn
 5. streamlit-option-menu
+6.joblib
